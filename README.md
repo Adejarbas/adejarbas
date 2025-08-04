@@ -2,7 +2,7 @@
 
 ###
 
-Olá! Me chamo **Daniel Adejarbas**, sou estudante de **Desenvolvimento de Software Multiplataforma** e atualmente atuo como estagiário na área de tecnologia. Estou constantemente me aperfeiçoando.<br><br>Sou comunicativo, curioso por natureza e gosto de aprender com cada desafio técnico. Aqui no GitHub você encontrará projetos pessoais, acadêmicos e experimentos que refletem minha evolução como desenvolvedor.
+Me chamo **Daniel Adejarbas**, sou estudante de **Desenvolvimento de Software Multiplataforma** e atualmente atuo como estagiário na área de tecnologia. Estou constantemente me aperfeiçoando.<br><br>Sou comunicativo, curioso por natureza e gosto de aprender com cada desafio técnico. Aqui no GitHub você encontrará projetos pessoais, acadêmicos e experimentos que refletem minha evolução como desenvolvedor.
 
 ###
 
